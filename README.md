@@ -5,10 +5,11 @@ Mac-only tool that finds available delivery slots for Amazon.com's Whole Foods d
 
 Fork from [ahertel](https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder)
 
-## Whole Foods Auto Buy
+## Whole Foods/Insta Cart Auto Buy
 * #### No prompt comfirmation.
 * #### Auto checkout after slot found.
-* Download the 'whole-foods-auto-buy.scpt' [here](https://github.com/xavierliang/Amazon-Fresh-Whole-Foods-delivery-slot-finder/raw/master/whole-foods-auto-buy.scpt)
+* #### Download the 'whole-foods-auto-buy.scpt' [here](https://github.com/xavierliang/Amazon-Fresh-Whole-Foods-delivery-slot-finder/raw/master/whole-foods-auto-buy.scpt)
+* #### Download the 'instacart-auto-buy.scpt' [here](https://github.com/xavierliang/Amazon-Fresh-Whole-Foods-delivery-slot-finder/raw/master/instacart-auto-buy.scpt) (Still working on instacart, you still need to manually checkout for now)
 
 ## Instructions
 1. Read the [Compatibility](#compatibility) section below to make sure the tool will work for you
