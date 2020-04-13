@@ -8,12 +8,12 @@ Fork from [ahertel](https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery
 ## Whole Foods/Insta Cart Auto Buy
 * #### No prompt comfirmation.
 * #### Auto checkout after slot found.
-* #### Download the 'whole-foods-auto-buy.scpt' [here](https://github.com/xavierliang/Amazon-Fresh-Whole-Foods-delivery-slot-finder/raw/master/whole-foods-auto-buy.scpt)
-* #### Download the 'instacart-auto-buy.scpt' [here](https://github.com/xavierliang/Amazon-Fresh-Whole-Foods-delivery-slot-finder/raw/master/instacart-auto-buy.scpt) (Still working on instacart, you still need to manually checkout for now)
+* #### Download the 'whole-foods-auto-buy.scpt' [here](https://github.com/xavierliang/Whole-Foods-Instacart-auto-buy/raw/master/whole-foods-auto-buy.scpt)
+* #### Download the 'instacart-auto-buy.scpt' [here](https://github.com/xavierliang/Whole-Foods-Instacart-auto-buy/raw/master/instacart-auto-buy.scpt) (Half done on instacart, you still need to manually checkout.)
 
 ## Instructions
 1. Read the [Compatibility](#compatibility) section below to make sure the tool will work for you
-2. Download the 'whole-foods-auto-buy.scpt' [here](https://github.com/xavierliang/Amazon-Fresh-Whole-Foods-delivery-slot-finder/raw/master/whole-foods-auto-buy.scpt)
+2. Download the 'whole-foods-auto-buy.scpt' [here](https://github.com/xavierliang/Whole-Foods-Instacart-auto-buy/raw/master/whole-foods-auto-buy.scpt)
 3. Enable "Allow JavaScript from Apple Events". [How-to video](https://www.youtube.com/watch?v=S6zb_6yTAbo)
 4. Log into your Amazon account in Safari
 5. Fill your Whole Foods cart with your complete order and proceed through the checkout process manually. Stop once you've arrived at the page saying no slots are available
